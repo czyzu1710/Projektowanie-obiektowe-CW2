@@ -1,0 +1,6 @@
+Brands:
+<ul>
+#for(brand in brands):
+ <li>#(brand)</li>
+#endfor
+</ul>
